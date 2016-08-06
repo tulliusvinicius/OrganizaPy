@@ -10,4 +10,4 @@ OrganizaPy is an open source Python software that lets you manage your movies.
   - mark if ever watched;
   - add comment;
   - watch trailer;
-  - listen soundtrac
+  - listen soundtrack
